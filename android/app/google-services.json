@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723332501529",
+    "project_id": "antiquesstore-51d9d",
+    "storage_bucket": "antiquesstore-51d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723332501529:android:41e7899c5be8245cff5a88",
+        "android_client_info": {
+          "package_name": "com.example.antiques_store2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723332501529-a7aej4hb1s66c8ua5gl8upcj4v2iq06f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXaD1b3jF926Us618kXPF09tFodustoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723332501529-a7aej4hb1s66c8ua5gl8upcj4v2iq06f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
